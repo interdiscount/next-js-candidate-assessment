@@ -36,7 +36,6 @@ You build:
 - Typical effort: 2-4 hours
 - Work at your own pace
 - After submission: we will review your code and discuss it in a follow-up interview
-- Submit to Stefan.Canobbio@interdiscount.ch
 
 ---
 
