@@ -46,8 +46,8 @@ You build:
 1. Clone this repository
 
 ```bash
-git clone <repository-url>
-cd nextjs-store-availability-demo
+git clone https://github.com/interdiscount/next-js-candidate-assessment.git
+cd next-js-candidate-assessment
 ```
 
 2. Create your own **private** repository on GitHub
