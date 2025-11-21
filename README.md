@@ -41,13 +41,34 @@ You build:
 
 ## Getting Started
 
-1. Install dependencies
+**Important: Do not fork this repository.**
+
+1. Clone this repository
+
+```bash
+git clone <repository-url>
+cd nextjs-store-availability-demo
+```
+
+2. Create your own **private** repository on GitHub
+
+3. Change the remote and push
+
+```bash
+git remote remove origin
+git remote add origin <your-private-repo-url>
+git push -u origin main
+```
+
+4. Invite us as collaborators to your private repo (GitHub → Settings → Collaborators)
+
+5. Install dependencies
 
 ```bash
 npm install
 ```
 
-2. Run the dev server
+6. Run the dev server
 
 ```bash
 npm run dev
@@ -55,7 +76,7 @@ npm run dev
 
 Open http://localhost:3000
 
-3. Verify mock API
+7. Verify mock API
 
 - GET /api/products
 - GET /api/stores
